@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ceiling
+  - EventController
+  - CameraController
+  - MapGenerator
+  - EnemyGenerator
+  - ItemGenerator
+  - ItemName
+  - ItemCount
+  - ItemEquip
+  - ItemWindowController
+  - ItemPage
+  - ItemPrevious
+  - ItemNext
+  - ItemUse
+  - ItemDiscard
+  - ItemCancel
+  - PlayerCharacter
+  - ItemClose
+  - YesButton
+  - NoButton
+  - DoorWall
+  - DWall
+  - Floor
+  - Wall
+  - ShopClose
+  - ShopPrevious
+  - ShopNext
+  - ShopPage
+  - ShopName
+  - ShopPrice
+  - CityController
+  - SaveNumber
+  - SaveName
+  - SaveLevel
+  - SaveFloor
+  - SaveTime
+  - SaveClose
+  - SavePrevious
+  - SaveNext
+  - SavePage
+  - SaveGameEnd
+  - NewGame
+  - LoadGame
+  - TitleLogo
+  - NameEntryPanel
+  - NameEntryText
+  - NameEntryMessage
+  - NameEntryOk
+  - NameEntryClear
+  - NameEntryGoTitle
+  - Exit
+  - LoadNumber
+  - LoadName
+  - LoadLevel
+  - LoadFloor
+  - LoadTime
+  - LoadPage
+  - LoadPrevious
+  - LoadNext
+  - LoadGoTitle
+  - DarkZoneImage
+  - ShakeCamera
+  - FadeImage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ceiling
+  - PlayerLight
+  - Player
+  - LargeEffect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
