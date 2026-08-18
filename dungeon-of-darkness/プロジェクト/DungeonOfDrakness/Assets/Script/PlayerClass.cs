@@ -185,7 +185,14 @@ namespace PlayerClass
         //定数
         private const int GOLD_MAX = 99999;    //ゴールドの最大値
         public const int EQUIP_MAX = 4;        //装備の種類数
-        public const int ITEM_MAX = 60;        //アイテム所持数の最大値
+
+        //アイテム所持数の最大値（デバッグ時は60、本番時は40に設定）
+#if UNITY_EDITOR || DEVELOPMENT_BUILD
+        public const int ITEM_MAX = 60;
+#endif
+#if !UNITY_EDITOR && !DEVELOPMENT_BUILD
+        public const int ITEM_MAX = 40;
+#endif
         public const int ITEM_PER_PAGE = 20;   //1ページごとのアイテム数
         public const int NORMAL_ITEM_MAX = 9;   //一回使い切りアイテム保有最大値
 
@@ -2071,7 +2078,7 @@ namespace PlayerClass
             }
         }
 
-        #region デバッグ
+#region デバッグ
         //----------------------------デバッグ用メンバ関数---------------------------------
 
         //所持アイテムを設定するメソッド
@@ -2248,7 +2255,7 @@ namespace PlayerClass
 
         }
         //----------------------------------------------------------------------------------
-        #endregion
+#endregion
 
     }
 
