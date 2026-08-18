@@ -364,8 +364,6 @@ public class CityController : MonoBehaviour
 
         //コマンドパネルを非表示にする
         commandPanel.GetComponentInChildren<CityButtonController>().CommandPanelClose();
-
-        Debug.Log(Player.ITEM_MAX);
     }
 
     // Update is called once per frame
