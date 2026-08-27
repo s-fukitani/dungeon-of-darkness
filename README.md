@@ -33,13 +33,7 @@
 - 実行ファイルのダウンロード
   - URL：https://xgf.nu/GZzKj
   - Password：1234
- 
-##### フォルダ階層
-
- - [ドキュメント](./dungeon-of-darkness/ドキュメント)：フォルダの説明
-
-|フォルダ名|説明|リンク|
-|---|---|---|
-|ドキュメント|説明です|[ドキュメント](./dungeon-of-darkness/ドキュメント)|
+- フォルダ階層
+  - [dungeon-of-darkness](./dungeon-of-darkness)：ゲームプロジェクト、ゲーム素材、ドキュメントが入っています
                     
           
