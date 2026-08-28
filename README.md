@@ -37,5 +37,6 @@
   - [dungeon-of-darkness](./dungeon-of-darkness)：ゲームプロジェクト、ゲーム素材、ドキュメントが入っています
     - [ドキュメント](./dungeon-of-darkness/ドキュメント)：ゲーム制作に使用した文書が入っています
     - [プロジェクト](./dungeon-of-darkness/プロジェクト/DungeonOfDarkness)：ゲームのプロジェクトが入っています
+    - [素材](./dungeon-of-darkness/素材)：ゲームで使用した素材が入っています
                     
           
