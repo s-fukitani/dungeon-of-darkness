@@ -45,5 +45,9 @@
       - [ゲームBGM](./dungeon-of-darkness/素材/ゲームBGM)：BGMが入っています
       - [ゲームSE](./dungeon-of-darkness/素材/ゲームSE)：効果音が入っています
       - [ゲーム画像](./dungeon-of-darkness/素材/ゲーム画像)：2D画像が入っています
+        - [アイテム](./dungeon-of-darkness/素材/ゲーム画像/アイテム)：アイテムの画像が入っています
+        - [イベント](./dungeon-of-darkness/素材/ゲーム画像/イベント)：迷宮内のイベント画像が入っています
+        - [キャラクター](./dungeon-of-darkness/素材/ゲーム画像/キャラクター)：城や街に登場するキャラクターの画像が入っています
+        - [タイトルロゴ](./dungeon-of-darkness/素材/ゲーム画像/タイトルロゴ)：タイトルロゴが入っています
                     
           
