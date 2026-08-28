@@ -41,5 +41,7 @@
         - [CSV](./dungeon-of-darkness/ドキュメント/データ/CSV)：ゲームのデータ（CSVファイル）が入っています
     - [プロジェクト](./dungeon-of-darkness/プロジェクト/DungeonOfDarkness)：ゲームのプロジェクトが入っています
     - [素材](./dungeon-of-darkness/素材)：ゲームで使用した素材が入っています
+      - [エフェクト](./dungeon-of-darkness/素材/エフェクト)：エフェクトアニメーションに使用する画像が入っています
+      - [ゲームBGM](./dungeon-of-darkness/素材/ゲームBGM)：BGMが入っています
                     
           
