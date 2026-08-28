@@ -43,5 +43,7 @@
     - [素材](./dungeon-of-darkness/素材)：ゲームで使用した素材が入っています
       - [エフェクト](./dungeon-of-darkness/素材/エフェクト)：エフェクトアニメーションに使用する画像が入っています
       - [ゲームBGM](./dungeon-of-darkness/素材/ゲームBGM)：BGMが入っています
+      - [ゲームSE](./dungeon-of-darkness/素材/ゲームSE)：効果音が入っています
+      - [ゲーム画像](./dungeon-of-darkness/素材/ゲーム画像)：2D画像が入っています
                     
           
