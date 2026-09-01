@@ -5,7 +5,7 @@
 アクションゲーム、ノベル形式のアドベンチャーゲームです。
 
 ### 制作した作品
-#### １．DungeonOfDarkness
+#### １．DungeonOfDarkness（ダンジョンオブダークネス）
 タイトル画面<BR>
 ![](./dungeon-of-darkness/素材/ゲーム画像/サムネイル/サムネイル1.png)<BR>
 街画面<BR>
