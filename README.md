@@ -63,7 +63,7 @@
     - ChatGPT：シナリオおよび2D画像の作成に使用
 
 - 実行ファイルのダウンロード
-  - URL：https://xgf.nu/GZzKj
+  - URL：https://xgf.nu/4Zzmo
   - Password：1234
 
 - フォルダ階層
